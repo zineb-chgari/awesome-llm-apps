@@ -13,8 +13,8 @@ Both versions are in this repository:
 
 | File | Version |
 |---|---|
-| `legal_agent_team_original.py` | Original logic (only the model provider was changed, so both versions can be compared fairly) |
-| `legal_agent_team.py` | Improved version |
+| `legal_agent_team.py` | Original logic (only the model provider was changed, so both versions can be compared fairly) |
+| `Improved_legal_agent_team.py` | Improved version |
 
 ## The agent team
 
